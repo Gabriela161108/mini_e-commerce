@@ -1,0 +1,21 @@
+{
+    "nameF": "Caixa Ferreiro Rocher - 24 unidades",
+    "priceF": "R$106,67",
+    "descriptionF": "Melhor presente em formato de bolinha para dar a alguém, em seu meio um maravilhoso recheio de avelã, envolto de uma wafer crocante com pedecinhos de avelã. E o que o torna mais especial é sua embalagem dourada, perfeita para presentear!",
+    "imageF": "<img src='img/ferreroRocher.jpg' width='350px'>",
+
+    "nameB": "Pacote Bala 7Belo - 500g",
+    "priceB": "R$19,00",
+    "descriptionB": "Pacote bala 7Belo sabor framboesa de 500g, possui aproximadamente 100 unidades, melhor bala do mercado!",
+    "imageB": "<img src='img/7belo.jpg' width='350px'>",
+
+    "nameK": "Chocolate Kit Kat - 41,5g",
+    "priceK": "R$4,62",
+    "descriptionK": "Clássico chocolate Kit Kat ao leite de 41,5g (1 unidade), delicioso e um dos mais vendidos do mercado!",
+    "imageK": "<img src='img/kitkat.png' width='350px'>",
+
+    "nameBi": "Chocolate Wafer Bis - 32 unidades",
+    "priceBi": "R$8,00",
+    "descriptionBi": "Chocolate Bisão Original ao leite de 201,6g (32 unidades) uma caixa especial de edição limitada, com um wafer recheada com o chocolate ao leite!",
+    "imageBi": "<img src='img/bis.jpg' width='350px'>"
+}

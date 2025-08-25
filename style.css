@@ -1,0 +1,53 @@
+img {
+    border: 1px solid black;
+    border-radius: 20px;
+        box-shadow: 2px 2px 6px black;
+}
+
+.divs {
+    background-color: rgb(243, 166, 253);
+    padding: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+    border-radius: 20px;
+    border: 2px solid rgb(212, 7, 151);
+    box-shadow: 3px 3px 9px rgb(38, 38, 233);
+}
+
+body {
+    background-image: url(img/fundo.jpg);
+}
+
+.tituSub {
+    padding: 10px;
+    border: 1px solid rgb(212, 7, 151);
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 23px;
+    color: rgb(52, 52, 138);
+    background-color: rgb(243, 166, 253);
+    box-shadow: 3px 3px 9px rgb(38, 38, 233);
+    font-family: cursive;
+}
+
+.infos {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(37, 37, 100);
+    font-size: 20px;
+}
+
+button {
+    font-size: 25px;
+    border-radius: 15px;
+    border: 1px solid purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(165, 226, 165);
+    color: rgb(36, 34, 34);
+}
+
+button:hover {
+    transform: scale(1.1);
+    background-color: rgb(51, 49, 49);
+    color: rgb(183, 221, 183);
+}
